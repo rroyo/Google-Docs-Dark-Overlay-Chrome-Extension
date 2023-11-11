@@ -1,4 +1,6 @@
 # Google Docs Dark Overlay Chrome Extension
+https://chrome.google.com/webstore/detail/google-docs-dark-overlay/eeoagcodlpbglppejfggliokaioinhfh
+
 Adds a darkening overlay to Google Docs to reduce the eye murdering effect it has with so much white space, especially at night.
 
 Adjust the lightness/darkness using the slider. Min value is 0, max value is 0.8.
